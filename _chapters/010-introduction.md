@@ -1,6 +1,6 @@
 ---
-title: Введение: Мы не нужны Большому Брату
-slug: introduction
+title: "Введение: Мы не нужны Большому Брату"
+slug: "introduction"
 abstract:
 ---
 
